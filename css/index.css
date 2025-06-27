@@ -25,7 +25,11 @@ h2 {
     border-bottom: 2px solid #e0b370;
     padding-bottom: 0.3em;
     margin-top: 2em;
-    color: #b27300;
+    color: #000000;
+}
+
+h3 {
+    color: #a31d1d;
 }
 
 ul {
