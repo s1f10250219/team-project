@@ -1,6 +1,6 @@
 body {
     background-image: url(../sushi.png);
-    background-color:rgba(255, 255, 255, 0.669);
+    background-color:rgba(140, 57, 57, 0.669);
     background-blend-mode:lighten;
     position: relative;
     background-repeat: repeat;
@@ -66,4 +66,10 @@ a {
 
 a:hover {
     color: #b27300;
+}
+
+img {
+    max-width: 90%;
+    border-radius: 20px;
+    background-color: rgba(255, 255, 255, 0.315);
 }
